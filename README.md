@@ -7,7 +7,7 @@ A RabbitMQ backend for [tennis-jobs][tennis-jobs].
 <a target="_blank" href="https://codeclimate.com/github/nicoolas25/tennis-rmq/coverage"><img src="https://codeclimate.com/github/nicoolas25/tennis-rmq/badges/coverage.svg" /></a>
 <a target="_blank" href="https://rubygems.org/gems/tennis-jobs-rmq"><img src="https://badge.fury.io/rb/tennis-jobs-rmq.svg" /></a>
 
-This work is made possible because of R&D time that is given to me by my employer: [Tigerlily][tigerlily].
+This work has been made possible because of R&D time that is given to me by my employer: [Tigerlily][tigerlily].
 
 ## Usage
 
