@@ -12,7 +12,7 @@ A RabbitMQ backend for [tennis-jobs][tennis-jobs].
 Simply configure Tennis with this backend:
 
 ``` ruby
-AMQP_URL = "redis://localhost:6379"
+AMQP_URL = "amqp://guest:guest@localhost:6379/"
 
 Tennis.configure do |config|
   config.backend = Tennis::Backend::Rabbit.new(logger: logger, url: AMQP_URL)
